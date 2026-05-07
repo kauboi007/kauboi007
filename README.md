@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Kaushik
-⚛️ Quantum Computing Enthusiast\n
+
+⚛️ Quantum Computing Enthusiast
 🎓 B.Tech CSE @ VIT Chennai  
 💻 Hardware tinkering since 2014 • Software development since 2018
 
