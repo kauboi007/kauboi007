@@ -1,6 +1,6 @@
-## ⚛️ Quantum Computing Enthusiast
-## 🎓 B.Tech CSE @ VIT Chennai
-## 💻 Hardware tinkering since 2014 • Software development since 2018
+#### ⚛️ Quantum Computing Enthusiast
+#### 🎓 B.Tech CSE @ VIT Chennai
+#### 💻 Hardware tinkering since 2014 • Software development since 2018
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kauboi007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kauboi007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikmugundan2019@gmail.com)
