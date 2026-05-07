@@ -1,6 +1,6 @@
-⚛️ Quantum Computing & Embeded Systems Enthusiast<br>
-🎓 B.Tech CSE @ VIT Chennai<br>
-💻 Hardware tinkering since 2014 • Software development since 2018
+**⚛️ Quantum Computing Enthusiast**<br>
+**🎓 B.Tech CSE @ VIT Chennai**<br>
+**💻 Hardware tinkering since 2014 • Software development since 2018**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kauboi007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kauboi007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikmugundan2019@gmail.com)
@@ -31,10 +31,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### 🧑‍🔬 Mathematical Tools
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
