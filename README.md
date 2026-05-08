@@ -7,6 +7,8 @@
 #### ⚛️ Quantum Computing
 ![Q#](https://img.shields.io/badge/Q%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![PySCF](https://img.shields.io/badge/PySCF-Quantum%20Chemistry-orange?style=for-the-badge)
+![OpenFermion](https://img.shields.io/badge/OpenFermion-Fermionic%20Ops-blue?style=for-the-badge)
 
 #### ⚙️ Embedded Systems & Low Level
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
