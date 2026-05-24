@@ -29,7 +29,7 @@
 #### 📈 Quantitative Finance & Trading Systems
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical%20Modeling-green?style=for-the-badge)
 ![yfinance](https://img.shields.io/badge/YFinance-Market%20Data-darkgreen?style=for-the-badge)
-![PyPortfolioOpt](https://img.shields.io/badge/PyPortfolioOpt-Portfolio%20Optimization-purple?style=for-the-badge)
+![pypfopt](https://img.shields.io/badge/PyPortfolioOpt-Portfolio%20Optimization-purple?style=for-the-badge)
 
 #### 🌐 Web Dev
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
