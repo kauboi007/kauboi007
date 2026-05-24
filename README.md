@@ -26,6 +26,11 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+#### 📈 Quantitative Finance & Trading Systems
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical%20Modeling-green?style=for-the-badge)
+![yfinance](https://img.shields.io/badge/YFinance-Market%20Data-darkgreen?style=for-the-badge)
+![PyPortfolioOpt](https://img.shields.io/badge/PyPortfolioOpt-Portfolio%20Optimization-purple?style=for-the-badge)
+
 #### 🌐 Web Dev
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
