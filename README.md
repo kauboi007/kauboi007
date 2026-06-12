@@ -32,7 +32,7 @@
 ![pypfopt](https://img.shields.io/badge/pypfopt-Portfolio%20Optimization-purple?style=for-the-badge)
 
 #### 🔄 Data Streaming & Infrastructure
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Kafka](https://img.shields.io/badge/%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🌐 Web Dev
