@@ -2,7 +2,7 @@
 **🎓 B.Tech CSE @ VIT Chennai**<br>
 **💻 Hardware tinkering since 2014 • Software development since 2018**
 
-## 💻 Tech Stack
+## 💥 Tech Stack
 
 #### ⚛️ Quantum Computing
 ![Q#](https://img.shields.io/badge/Q%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
