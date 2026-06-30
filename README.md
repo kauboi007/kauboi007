@@ -1,4 +1,4 @@
-**⚛️ Quantum Computing Enthusiast**<br>
+**⚛️ Quantum Computing & System Development Enthusiast**<br>
 **🎓 B.Tech CSE @ VIT Chennai**<br>
 **💻 Hardware tinkering since 2014 • Software development since 2018**
 
