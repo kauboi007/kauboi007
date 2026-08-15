@@ -30,14 +30,12 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-#### 📈 Quantitative Finance & Trading Systems
+#### 🔄 Infrastructure & Finance
+![Kafka](https://img.shields.io/badge/%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical%20Modeling-green?style=for-the-badge)
 ![yfinance](https://img.shields.io/badge/YFinance-Market%20Data-darkgreen?style=for-the-badge)
 ![pypfopt](https://img.shields.io/badge/pypfopt-Portfolio%20Optimization-purple?style=for-the-badge)
-
-#### 🔄 Data Streaming & Infrastructure
-![Kafka](https://img.shields.io/badge/%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🛠️ Tools & Systems
 ![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
