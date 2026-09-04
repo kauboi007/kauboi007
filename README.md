@@ -45,8 +45,7 @@
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Lisp](https://img.shields.io/badge/Lisp-3C3C3C?style=for-the-badge&logo=lisp&logoColor=white)
-
+![Common Lisp](https://img.shields.io/badge/Common%20Lisp-3C3C3C?style=for-the-badge&logo=commonlisp&logoColor=white)
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
